@@ -4,4 +4,4 @@ applications:
   routes:
   - route: jojo.apps.pikes.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Hello from the NATE environment
+    WELCOME_MESSAGE: Hello from the NATE2 environment
